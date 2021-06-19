@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "pwa-chrome",
+            "type": "pwa-msedge",
             "request": "launch",
-            "name": "Open table.html",
-            "file": "c:\\Users\\prana\\OneDrive - ss.z\\Documents\\GanamruthaBodhini\\table.html"
+            "name": "Open index.html",
+            "file": "c:\\Users\\prana\\OneDrive - ss.z\\Documents\\GanamruthaBodhini\\index.html"
         }
     ]
 }
