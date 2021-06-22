@@ -20,6 +20,12 @@
     line-height: 2em;
     font-family: monospace;
 }
+.a-lyrics{
+    text-align: center;
+    font-size: 1.3em;
+    line-height: 2em;
+    font-family: monospace;
+}
 .print-lyrics{
     font-size: 1.25em;
     line-height: 2em;
