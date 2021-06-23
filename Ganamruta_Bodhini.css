@@ -9,6 +9,14 @@
     text-align: center;
     list-style-position: inside;
 }
+.left{
+    text-align: left;
+    float: left;
+}
+.right{
+    text-align: right;
+    float: right;
+}
 .flexbox{
     display: flex;
 }
