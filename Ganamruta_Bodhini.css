@@ -17,6 +17,11 @@
     text-align: right;
     float: right;
 }
+.bottom-left{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
 .flexbox{
     display: flex;
 }
